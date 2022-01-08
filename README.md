@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prashant Bhardwaj
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning whatever i ca
+- 🌱 I’m currently learning whatever i can
 - 🍺 [Buy me a beer](https://www.buymeacoffee.com/prsntbrdwj)
 - 📫 How to reach me : [Mail](mailto:prsntbdwj13@gmail.com)
 
