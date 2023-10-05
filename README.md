@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning whatever i can
 - 🍺 [Buy me a beer](https://www.buymeacoffee.com/prsntbrdwj)
-- 📫 How to reach me : [Mail](mailto:prsntbdwj13@gmail.com)
+- 📫 How to reach me : [Mail](mailto:contact@prsntbdwj.com)
 
 <!---
 prashant13b/prashant13b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
