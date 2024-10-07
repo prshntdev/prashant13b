@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Prashant Bhardwaj
+-  Hi, I’m Prashant Bhardwaj
